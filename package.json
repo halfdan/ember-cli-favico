@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-favico",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Dynamic favicon with favico.js",
   "directories": {
     "doc": "doc",
